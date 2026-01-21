@@ -16,6 +16,8 @@
 
 ## 🎯 About Me
 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+
 ```python
 class DataAnalyst:
     def __init__(self):
@@ -50,6 +52,8 @@ print(me.get_specialization())
 🌱 **Learning:** Advanced ML, Cloud Deployment, Real-time Data Processing  
 💡 **Passion:** Building solutions that create measurable business impact  
 ⚡ **Fun Fact:** I automate everything - if it's repetitive, it's getting scripted!
+
+<br clear="both">
 
 ---
 
@@ -107,61 +111,6 @@ print(me.get_specialization())
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🍳 ChefNet – AI Food Recognition Platform
-**`Python` `Gemini 2.5 Flash API` `Flask` `Firebase`**
-
-Built a full-stack AI application that recognizes food from images and generates recipes with nutritional analysis using Google's Gemini multimodal AI.
-
-**Key Features:**
-- 🤖 Real-time food image recognition using Gemini 2.5 Flash
-- 📝 Automatic recipe generation with step-by-step instructions
-- 📊 Nutritional analysis and health insights
-- 🔐 Firebase authentication for secure user management
-- ☁️ Deployed on Render with environment-based configuration
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_DEMO_LINK)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
-
----
-
-### 🏥 Medical E-Logbook Platform
-**`React` `FastAPI` `Node.js` `MongoDB`**
-
-Secure digital clinical logbook enabling medical students to submit structured case records and receive faculty feedback.
-
-**Key Features:**
-- 🔐 Role-based access control (Students/Faculty/Admin)
-- 📝 Structured case record submission system
-- 💬 Real-time faculty feedback mechanism
-- 📊 Progress tracking and analytics dashboard
-- 🗄️ Efficient MongoDB schema for longitudinal clinical data
-
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
-
----
-
-### 🌫️ SMOG Dog – Air Quality Monitor
-**`Arduino` `C++` `ThingSpeak` `IoT`**
-
-Arduino-based air quality monitoring system with real-time data visualization and Bluetooth controls.
-
-**Key Features:**
-- 📡 Real-time PM2.5 and CO monitoring
-- 📊 ThingSpeak integration for data visualization
-- 📱 Bluetooth control via mobile app
-- ✅ 95% sensor accuracy validation
-- 🌐 Remote monitoring capabilities
-
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -196,6 +145,12 @@ Arduino-based air quality monitoring system with real-time data visualization an
 
 ---
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ImDhanush-V/ImDhanush-V/output/snake.svg" alt="Snake animation" />
+
+---
+
 ## 🎓 Academic Focus
 
 <table align="center">
@@ -223,35 +178,6 @@ Arduino-based air quality monitoring system with real-time data visualization an
 </td>
 </tr>
 </table>
-
----
-
-## 💡 What I'm Working On
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Dhanush V))
-    Machine Learning
-      TensorFlow Applications
-      Model Deployment
-      Real-time Predictions
-    Backend Development
-      FastAPI Projects
-      RESTful APIs
-      Database Design
-    Automation
-      Python Scripts
-      Workflow Optimization
-      Testing Frameworks
-    Research
-      eLearning Analytics
-      Healthcare Tech
-      Data Collection
-```
-
-</div>
 
 ---
 
