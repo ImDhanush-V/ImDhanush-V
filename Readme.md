@@ -2,34 +2,34 @@
 
 <!-- Typing Animation -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=70A5FD&width=600&lines=Data+Analytics+Student+%26+Developer;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Data+Visualization;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=70A5FD&width=600&lines=Data+Analytics+Student+%26+Developer;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Data+Visualization;Always+Learning%2C+Always+Building" alt="Typing Animation" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImDhanush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImDhanush&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImDhanush-V&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImDhanush-V&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ---
 
 ### 👨‍🎓 About Me
-- 📊 Data Analytics student with a strong interest in **data-driven decision making**
-- 🧑‍💻 Developer who enjoys solving real-world problems using **Python & SQL**
-- 📈 Passionate about **data visualization, insights, and automation**
+- 📊 Data Analytics student focused on extracting meaningful insights from data  
+- 🧑‍💻 Developer passionate about solving problems using **Python & SQL**  
+- 📈 Interested in **data visualization, analytics, and automation**
 
 ---
 
-### 🛠 Tech Stack (Resume-Aligned)
+### 🛠 Tech Stack (Resume Aligned)
 
 #### 🔹 Programming & Query Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" />
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" />
 </div>
 
 #### 🔹 Data Analytics & Libraries
@@ -39,13 +39,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" />
 </div>
 
-#### 🔹 Web & Tools
+#### 🔹 Tools & Web
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" />
 </div>
 
 ---
@@ -64,4 +64,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ImDhanushh/ImDhanushh/output/snake.svg" alt="Contribution Snake Animation" />
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/ImDhanush-V/ImDhanush-V/output/snake.svg" alt="Contribution Snake Animation" />
