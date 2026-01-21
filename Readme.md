@@ -2,23 +2,13 @@
   
 # 👋 Hi, I'm Dhanush V
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Data+Analytics+Student+%26+Developer;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Machine+Learning;Building+the+Future+with+Data" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MSc+Data+Analytics+Student;Backend+Developer+%26+ML+Engineer;Building+Scalable+AI+Solutions;Python+%7C+FastAPI+%7C+TensorFlow" alt="Typing Animation" />
 
-<img src="https://komarev.com/ghpvc/?username=ImDhanush-V&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Dhanush.V)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushdhanu8912@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImDhanush-V)
 
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Quick Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ImDhanush-V&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImDhanush-V&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImDhanush-V&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="180"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImDhanush-V&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" height="180"/>
+<img src="https://komarev.com/ghpvc/?username=ImDhanush-V&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -30,52 +20,157 @@
 class DataAnalyst:
     def __init__(self):
         self.name = "Dhanush V"
-        self.role = "Data Analytics Student & Developer"
-        self.location = "Bengaluru, Karnataka, IN"
-        self.interests = ["Data Science", "Machine Learning", "Web Development"]
-        self.current_focus = "Building data-driven solutions"
+        self.education = {
+            "degree": "MSc in Data Analytics",
+            "university": "Christ University, Bangalore",
+            "graduation": "2024 - Present"
+        }
+        self.location = "Bangalore, India"
+        self.interests = [
+            "Machine Learning & AI",
+            "Backend Development",
+            "Data-Driven Solutions",
+            "Healthcare Tech"
+        ]
+        self.current_focus = [
+            "Building scalable ML applications",
+            "Automating workflows with Python",
+            "Deploying AI-powered web apps"
+        ]
     
-    def say_hi(self):
-        print("Thanks for stopping by! Let's turn data into insights together 📊")
+    def get_specialization(self):
+        return "Turning data into actionable insights 📊"
 
 me = DataAnalyst()
-me.say_hi()
+print(me.get_specialization())
 ```
 
-🔭 **Current Focus:** Exploring advanced analytics and machine learning techniques  
-🌱 **Learning:** Deep Learning, Cloud Computing (AWS/Azure), Advanced SQL  
-💡 **Passionate About:** Data visualization, predictive modeling, and automation  
-⚡ **Fun Fact:** I believe every dataset has a story waiting to be discovered!
+🎓 **Education:** MSc Data Analytics @ Christ University, Bangalore  
+🔭 **Currently Working On:** AI-powered applications & backend automation  
+🌱 **Learning:** Advanced ML, Cloud Deployment, Real-time Data Processing  
+💡 **Passion:** Building solutions that create measurable business impact  
+⚡ **Fun Fact:** I automate everything - if it's repetitive, it's getting scripted!
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,cpp&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Data Science & Analytics
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+### 📊 Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### 🔧 Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Databases
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux&theme=dark" />
+### 🌐 Web Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 📈 Data Visualization
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### 🤖 IoT & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-00A1E0?style=for-the-badge&logo=thingspeak&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🍳 ChefNet – AI Food Recognition Platform
+**`Python` `Gemini 2.5 Flash API` `Flask` `Firebase`**
+
+Built a full-stack AI application that recognizes food from images and generates recipes with nutritional analysis using Google's Gemini multimodal AI.
+
+**Key Features:**
+- 🤖 Real-time food image recognition using Gemini 2.5 Flash
+- 📝 Automatic recipe generation with step-by-step instructions
+- 📊 Nutritional analysis and health insights
+- 🔐 Firebase authentication for secure user management
+- ☁️ Deployed on Render with environment-based configuration
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_DEMO_LINK)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
+
+---
+
+### 🏥 Medical E-Logbook Platform
+**`React` `FastAPI` `Node.js` `MongoDB`**
+
+Secure digital clinical logbook enabling medical students to submit structured case records and receive faculty feedback.
+
+**Key Features:**
+- 🔐 Role-based access control (Students/Faculty/Admin)
+- 📝 Structured case record submission system
+- 💬 Real-time faculty feedback mechanism
+- 📊 Progress tracking and analytics dashboard
+- 🗄️ Efficient MongoDB schema for longitudinal clinical data
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
+
+---
+
+### 🌫️ SMOG Dog – Air Quality Monitor
+**`Arduino` `C++` `ThingSpeak` `IoT`**
+
+Arduino-based air quality monitoring system with real-time data visualization and Bluetooth controls.
+
+**Key Features:**
+- 📡 Real-time PM2.5 and CO monitoring
+- 📊 ThingSpeak integration for data visualization
+- 📱 Bluetooth control via mobile app
+- ✅ 95% sensor accuracy validation
+- 🌐 Remote monitoring capabilities
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ImDhanush-V&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImDhanush-V&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" height="170" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImDhanush-V&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&hide=jupyter%20notebook" height="170" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImDhanush-V&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&height=250" height="170" alt="Contribution Graph" />
 
 </div>
 
@@ -85,82 +180,108 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ImDhanush-V&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=ImDhanush-V&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
 
 </div>
 
 ---
 
-## 📊 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImDhanush-V&custom_title=Dhanush's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImDhanush-V/ImDhanush-V/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImDhanush-V/ImDhanush-V/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ImDhanush-V/ImDhanush-V/output/github-contribution-grid-snake.svg">
-</picture>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImDhanush-V&custom_title=Dhanush's%20Annual%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🎓 Academic Focus
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 📚 MSc Data Analytics
+**Christ University, Bangalore**
+
+- Machine Learning
+- Database Management Systems
+- Statistical Analysis
+- Data Mining
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 Research Interests
+
+- Healthcare Technology
+- AI/ML Applications
+- Backend Automation
+- Data-Driven Solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 What I'm Working On
 
 <div align="center">
 
-<a href="https://github.com/ImDhanush-V/your-project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImDhanush-V&repo=your-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/ImDhanush-V/your-project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImDhanush-V&repo=your-project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
+```mermaid
+mindmap
+  root((Dhanush V))
+    Machine Learning
+      TensorFlow Applications
+      Model Deployment
+      Real-time Predictions
+    Backend Development
+      FastAPI Projects
+      RESTful APIs
+      Database Design
+    Automation
+      Python Scripts
+      Workflow Optimization
+      Testing Frameworks
+    Research
+      eLearning Analytics
+      Healthcare Tech
+      Data Collection
+```
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Get In Touch
 
 <div align="center">
 
 <a href="mailto:dhanushdhanu8912@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/dhanush-venky-333d">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/Dhanush.V">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ImDhanush-V">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-### 💬 Let's collaborate on exciting data projects!
-
-</div>
+### 💬 Open to collaborations on:
+**AI/ML Projects** • **Backend Development** • **Healthcare Tech** • **Data Analytics**
 
 ---
 
-<div align="center">
+### 💭 Dev Quote of the Day
 
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-### ⚡ Current Coding Music
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=false" />
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-**"Data is the new oil, but insights are the refined fuel that powers innovation."** 🚀
+**"Data is not just numbers – it's stories waiting to be told."** 📊✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
 
 </div>
