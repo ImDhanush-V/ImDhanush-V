@@ -133,17 +133,6 @@ print(me.get_specialization())
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImDhanush-V&custom_title=Dhanush's%20Annual%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
-
-</div>
-
----
 
 <br clear="both">
 
@@ -199,14 +188,6 @@ print(me.get_specialization())
 **AI/ML Projects** • **Backend Development** • **Healthcare Tech** • **Data Analytics**
 
 ---
-
-### 💭 Dev Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-**"Data is not just numbers – it's stories waiting to be told."** 📊✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
 
