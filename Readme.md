@@ -123,17 +123,6 @@ print(me.get_specialization())
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ImDhanush-V&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
-
-</div>
-
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ImDhanush-V/ImDhanush-V/output/snake.svg" alt="Snake animation" />
